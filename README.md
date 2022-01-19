@@ -1,10 +1,16 @@
 # daniel_gutierrez_P1
-
-## TechStack 
-## Java
-## SWL
-## AWS
-## HTML, CSS, JavaScript.
+## Tech Stck
+### Java 8
+### Apache Maven
+### Apache Log4j 2
+### PostgreSQL
+### AWS RDS
+### Servlets
+### JDBC / Hibernate
+### JavaScript
+### AJAX / Fetch API
+### HTML
+### CSS / Bootstrap
 
 ## Description
 
