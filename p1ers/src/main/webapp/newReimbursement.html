@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>New Reimbursement</title>
+    <link rel="stylesheet" href="./css/newReimbursement.css">
+</head>
+<body>
+<form  method= "post" action="/user/logout">
+    <input id="logout" value="Log out" type="submit">
+</form>
+<div class="container">
+
+    <form id="form" method="post" action="newR">
+        <label id="label-amount" for="amount">Amount:</label>
+        <input id="amount" type="text" name="amount" placeholder="0.00">
+        <label id="label-type" for="type">Type:</label>
+        <select id="type" name="type">
+            <option value="0">University Courses</option>
+            <option value="1">Seminars</option>
+            <option	value="2">Certification Prep</option>
+            <option	value="3">Certification </option>
+            <option	value="4">Technical Training</option>
+            <option	value="5">OTHER</option>
+        </select>
+        <textarea id="description" rows="25" cols="80" name="description" placeholder="Description"></textarea>
+        <input id="submit-btn" type="submit" value="Add Reimbursement">
+    </form>
+</div>
+
+
+<script type="text/javascript" src="/app.js/newReimbursement.js"></script>
+</body>
+</html>
