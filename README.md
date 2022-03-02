@@ -39,7 +39,7 @@
 
 -VSC OR IntelliJ IDE and maneuver to your LocalHost. 
 
-# Useage
+# Usage
 - use the application to view reimbursements
 - validate/invalidate and approve/deny reimbursement forms(for Finance Manager)
 - create reimbursement forms(Employee)
