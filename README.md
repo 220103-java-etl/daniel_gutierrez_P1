@@ -25,7 +25,7 @@
 - Specific login failure messages(username does not exist or password incorrect)
 - Auto reimbursement cost updateing based on company policy for event type reimbursement
 
-# To do list
+# To do list || Stretch Goals
 -Refactor with ReactJs for an SPA
 - Impliment the fetch API to get table data faster
 - Restructure page styles useing Bootstrap
@@ -33,10 +33,7 @@
 - set up document uploading features
 
 # Getting started
-- used git clone within bash to get started
-
-![Git instructions](githubinst.jpg)
-
+- Open cloned repo with Git Bash
 -VSC OR IntelliJ IDE and maneuver to your LocalHost. 
 
 # Usage
